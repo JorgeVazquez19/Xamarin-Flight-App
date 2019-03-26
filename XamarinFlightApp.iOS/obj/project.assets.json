@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "Xamarin.iOS,Version=v1.0": {
+      "Firebase.js/2.1.2": {
+        "type": "package"
+      }
+    },
+    "Xamarin.iOS,Version=v1.0/win": {
+      "Firebase.js/2.1.2": {
+        "type": "package"
+      }
+    },
+    "Xamarin.iOS,Version=v1.0/win-x64": {
+      "Firebase.js/2.1.2": {
+        "type": "package"
+      }
+    },
+    "Xamarin.iOS,Version=v1.0/win-x86": {
+      "Firebase.js/2.1.2": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "Firebase.js/2.1.2": {
+      "sha512": "euutTH70FyFXGg+O3DWIa5HV5GXew4hi8sxjmJ+wcp8Y+yZ6emHDkPYT8m3XlQccrgm251ufEWPcvjBLbSgmWQ==",
+      "type": "package",
+      "path": "firebase.js/2.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/Scripts/firebase-debug.js",
+        "content/Scripts/firebase.js",
+        "firebase.js.2.1.2.nupkg.sha512",
+        "firebase.js.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "Xamarin.iOS,Version=v1.0": [
+      "Firebase.js >= 2.1.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\usuario\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\xamarinflight-master\\XamarinFlightApp.iOS\\XamarinFlightApp.iOS.csproj",
+      "projectName": "XamarinFlightApp.iOS",
+      "projectPath": "C:\\Users\\usuario\\source\\repos\\xamarinflight-master\\XamarinFlightApp.iOS\\XamarinFlightApp.iOS.csproj",
+      "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\usuario\\source\\repos\\xamarinflight-master\\XamarinFlightApp.iOS\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "xamarinios10"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "xamarinios10": {
+        "dependencies": {
+          "Firebase.js": {
+            "target": "Package",
+            "version": "[2.1.2, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Click Me!</string>
+    <string name="app_name">XamarinFlightApp</string>
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+  <string name="action_settings">Settings</string>
+
+  <string-array name="filter">
+    <item>None</item>
+    <item>Price (+ 100$)</item>
+    <item>Price  (- 100$)</item>
+    <item>Duration (+ 1,20h)</item>
+    <item>Duration (- 1,20h)</item>
+  </string-array>
+  
+</resources>

@@ -1,0 +1,5 @@
+C:\Users\usuario\source\repos\xamarinflight-master\XamarinFlightApp\bin\Debug\XamarinFlightApp.dll
+C:\Users\usuario\source\repos\xamarinflight-master\XamarinFlightApp\bin\Debug\XamarinFlightApp.pdb
+C:\Users\usuario\source\repos\xamarinflight-master\XamarinFlightApp\obj\Debug\XamarinFlightApp.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\xamarinflight-master\XamarinFlightApp\obj\Debug\XamarinFlightApp.dll
+C:\Users\usuario\source\repos\xamarinflight-master\XamarinFlightApp\obj\Debug\XamarinFlightApp.pdb
